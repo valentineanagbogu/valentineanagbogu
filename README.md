@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Valentine
-- 👀 I am an early career data scientist, with experience in data analysis, data visualization, predictive modelling and machine learning.
-- 💞️ I’m looking to collaborate on ML projects
+- 👀 Cloud Engineer/DevOps
+- 💞️ I’m looking to collaborate on DevOps projects
 - 📫 How to reach me: valentineanagbogu@gmail.com
 
 <!---
