@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Valentine
-- 👀 Cloud Engineer/DevOps
+- 👀 DevOps/Cloud DevOps
 - 💞️ I’m looking to collaborate on DevOps projects
 - 📫 How to reach me: valentineanagbogu@gmail.com
 
