@@ -76,7 +76,8 @@ I'm a passionate Cloud Architect and DevOps Engineer dedicated to designing robu
 
 ### 🎯 Currently Focused On
 
-- 🔧 Architecting multi-cloud Kubernetes platforms for enterprise workloads
+- 🔧 Architecting multi-cloud platforms for enterprise workloads
+- ☸️ Designing and managing Kubernetes platforms at scale
 - 📚 Building reusable Terraform modules & Helm charts
 - 🚀 Implementing GitOps workflows with ArgoCD
 - 🔐 Integrating security into CI/CD pipelines (DevSecOps)
@@ -102,7 +103,7 @@ I'm a passionate Cloud Architect and DevOps Engineer dedicated to designing robu
   <a href="https://www.linkedin.com/in/valentineanagbogu/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://calendly.com/valentineanagbogu">
+  <a href="https://calendly.com/valentineanagbogu/30min">
     <img src="https://img.shields.io/badge/Schedule_a_Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly" />
   </a>
 </p>
