@@ -1,6 +1,6 @@
 # Hi there, I'm Valentine Anagbogu! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentineanagbogu/)
+<!--- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentineanagbogu/) --->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valentineanagbogu@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://valentineanagbogu.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valentineanagbogu)
@@ -100,9 +100,9 @@ I'm a passionate Cloud Architect and DevOps Engineer dedicated to designing robu
   <a href="mailto:valentineanagbogu@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/valentineanagbogu/">
+  <!--- <a href="https://www.linkedin.com/in/valentineanagbogu/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  </a> --->
   <a href="https://calendly.com/valentineanagbogu/30min">
     <img src="https://img.shields.io/badge/Schedule_a_Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly" />
   </a>
